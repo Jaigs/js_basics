@@ -38,6 +38,9 @@ if (v1==v2) {
 }else{
     console.log("No son iguales");
 }
+//crear dos arrays con el mismo contenido y comparar con "==" si ambos arrays son iguales
+
+//ahora comparar el contenido de dichos arrays utilizando un bucle
 
 //crear dos arrays con el mismo contenido y comparar si ambos arrays son iguales
     let val_1=[3, 4, 5];
@@ -60,6 +63,7 @@ var a;
 var b;
 a += b;
 console.log(a);
+//incrementar una variable con otra variable o número con el operador  +=, mostrar por pantalla la primera variable (la incrementada)
 
 //eleva un número a otro utilizando **
 var a = 6;
